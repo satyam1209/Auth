@@ -1,0 +1,9 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 8ch;
+  }
+
+  ul {
+    list-style-type: none;
+}
